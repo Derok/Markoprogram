@@ -5,10 +5,7 @@ using System.Text;
 
 namespace darkfallmakro
 {
-    class Program
+    class Main
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Control.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Network.cs" />
+    <Compile Include="Server.cs" />
+    <Compile Include="Shell.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
